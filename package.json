@@ -1,6 +1,6 @@
 {
   "name": "uploadcare-widget",
-  "version": "0.0.1",
+  "version": "2.6.0",
   "description": "uploadcare-widget",
   "main": "uploadcare.min.js",
   "directories": {
@@ -20,5 +20,8 @@
   },
   "homepage": "https://github.com/uploadcare/uploadcare-widget",
   "devDependencies": {
+  },
+  "dependencies": {
+    "jquery": ">=1.10.2"
   }
 }
