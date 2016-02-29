@@ -30,8 +30,8 @@ Add following code to header of your web page:
         // Widget settings
         UPLOADCARE_PUBLIC_KEY = 'your_public_key';
     </script>
-    <script src="/npm/jquery/jquery.js" charset="utf-8"></script>
-    <script src="/npm/uploadcare/uploadcare.min.js" charset="utf-8"></script>
+    <script src="/node_modules/jquery/jquery.js" charset="utf-8"></script>
+    <script src="/node_modules/uploadcare-widget/uploadcare.min.js" charset="utf-8"></script>
 
 Add the tag in the place where widget needs to be displayed:
 
